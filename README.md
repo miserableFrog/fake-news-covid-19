@@ -6,3 +6,6 @@ Lista notatników - zbiór CoAID:
 Lista notatników - zbiór ReCOVery:
 1) **[Analiza i przygotowanie zbioru - ReCOVery](recovery_data.ipynb)**
 2) **[Modele NLP - ReCOVery](recovery_models.ipynb)**
+3) **[Wektorowa reprezentacja danych i modele NLP - ReCOVery](recovery_vector_models.ipynb)**
+
+
